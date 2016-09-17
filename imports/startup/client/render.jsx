@@ -9,5 +9,5 @@ import { Layout } from '/imports/ui/views/Layout.jsx';
 window.ViewModel = ViewModel; // Make ViewModel accessible globally (development only)
 
 Meteor.startup(() => {
-  ReactDOM.render(<Layout />, document.getElementById('root'));
+  ReactDOM.render(<Layout />, document.getElementById('react-root'));
 });

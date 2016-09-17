@@ -31,7 +31,7 @@ underscore
 
 less
 juliancwirko:postcss
-semantic:ui
+# semantic:ui
 
 # jeremy:snapsvg
 static-html
